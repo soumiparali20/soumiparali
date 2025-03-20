@@ -1,4 +1,4 @@
 # soumiparali
-This is my first git repo.
+This is my first git repository.
 <br>
 Author - Soumi Parali
